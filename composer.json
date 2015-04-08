@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "classmap": [
+          "classes/"
+        ]
+    },
+    "require": {
+        "silex/silex": "~1.2",
+        "fabpot/goutte": "~2.0"
+    }
+}
